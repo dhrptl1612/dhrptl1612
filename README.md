@@ -34,38 +34,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrptl1612&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrptl1612&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrptl1612&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhrptl1612&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrptl1612&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Profiles
 
 <p align="center">
